@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# Data files
+*.csv
+*.zip
+
+# Notebooks
+*.ipynb
+
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Machine learning models
+*.pt
+*.h5
+*.pkl
+
+# Datasets
+data/
+dataset/
+datasets/
+
+# OS files
+Thumbs.db
+.DS_Store
