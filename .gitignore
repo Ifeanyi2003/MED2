@@ -30,3 +30,6 @@ datasets/
 # OS files
 Thumbs.db
 .DS_Store
+
+# SQLite database
+*.db
