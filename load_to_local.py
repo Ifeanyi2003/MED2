@@ -1,7 +1,7 @@
 import pandas as pd
 from sqlalchemy import create_engine, text
 
-DATABASE_URL = "postgresql://postgres:peter2003$@localhost:5432/drugai"
+DATABASE_URL = "sqlite:///drugai.db"
 
 engine = create_engine(DATABASE_URL)
 
